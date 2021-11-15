@@ -35,5 +35,8 @@
   "lint": "tslint -p tsconfig.json",
   "“files”": [
     "“lib/**/*”"
-  ]
+  ],
+  "dependencies": {
+    "semver": "^7.3.5"
+  }
 }
